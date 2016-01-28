@@ -1,0 +1,90 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "fcaa2fc7-62e0-4255-961a-59923a9045bf"
+    html_end_with_newline: true
+  "atom-ctags": {}
+  "atom-terminal": {}
+  "atom-ternjs": {}
+  "autocomplete-clang": {}
+  "autocomplete-plus": {}
+  "autocomplete-python": {}
+  "autocomplete-ruby": {}
+  "build-tools": {}
+  core:
+    disabledPackages: [
+      "flex-tool-bar"
+      "tool-bar"
+      "django-templates"
+      "vim-mode"
+      "ex-mode"
+      "atom-bootstrap3"
+      "autocomplete-ruby"
+      "coffee-compile"
+      "color-picker"
+      "github-utils"
+      "jekyll"
+      "language-django"
+      "latex-plus"
+      "linter"
+      "linter-erb"
+      "linter-flake8"
+      "linter-htmlhint"
+      "linter-jshint"
+      "linter-php"
+      "linter-rails-best-practices"
+      "linter-ruby"
+      "linter-scss-lint"
+      "merge-conflicts"
+      "php-integrator-annotations"
+      "php-integrator-autocomplete-plus"
+      "php-integrator-base"
+      "php-integrator-navigation"
+      "php-integrator-tooltips"
+      "project-manager"
+      "rails-transporter"
+      "ruby-block"
+      "ruby-test"
+      "trailing-spaces"
+      "tree-view-git-branch"
+      "tree-view-git-status"
+      "uglify"
+      "atom-html-preview"
+      "live-doc-viewer"
+      "atom-django"
+      "autocomplete-clang"
+      "atom-ctags"
+    ]
+    themes: [
+      "native-ui"
+      "Visual-Studio-2015-Dark-Theme"
+    ]
+  editor:
+    fontFamily: "Monaco"
+    fontSize: 13
+    invisibles: {}
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "3c45ff0c-efbc-b0f2-75f0-7dce82f6ac50"
+  "linter-jshint":
+    executablePath: "/usr/local/bin/jshint"
+    lintInlineJavaScript: true
+  "linter-rails-best-practices":
+    executablePath: "/opt/local/bin/rails_best_practices"
+  minimap:
+    plugins:
+      "highlight-selected": true
+  "python-tools": {}
+  "todo-manager": {}
+  "unity-ui":
+    colorStatusIndicatorsInTreeView: true
+    showIcons: true
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
+  "you-complete-me":
+    enabledFiletypes: "c,cpp,objc,objcpp,cs"
+    globalExtraConfig: "/Users/li/.ycm_extra_conf.py"
+    pythonExecutable: "/opt/local/bin/python2.7"
+    ycmdPath: "/Users/li/.vim/bundle/YouCompleteMe/third_party/ycmd"
+
